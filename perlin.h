@@ -7,7 +7,7 @@ private:
 	int minLength;
 	int maxHeight;
 
-
+	Map heights;
 public:
 
 };
